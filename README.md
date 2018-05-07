@@ -1,6 +1,6 @@
 # University Database for Students - Console Application
 
-Modeled and developed a database in C++ for university student susing STL, where student could register, add courses, remove a particular course, drop all courses based on semester. The database was tested and simulated with default inputs. Visual Studio IDE was used to develop this application
+Modeled and developed a database in C++ for university student using STL, where student could register, add courses, remove a particular course, drop all courses based on semester. The database was tested and simulated with default inputs. Visual Studio IDE was used to develop this application
 
 ## Features
 
